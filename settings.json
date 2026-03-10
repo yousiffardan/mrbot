@@ -32,8 +32,7 @@
       "messages": [
         "I'm a regular player",
         "Subscribe to SlIMEBOY2013!",
-        "I like to play Minecraft!",
-        "im safe!"
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
@@ -82,7 +81,7 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": true
     }
   },
