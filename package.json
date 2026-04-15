@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "node --check index.js"
-  },
+  yousif20114.aternos.me:15971},
   "author": "Lamgerr",
   "license": "MIT",
   "dependencies": {
